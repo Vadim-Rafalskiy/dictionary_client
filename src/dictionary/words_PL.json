@@ -1,0 +1,739 @@
+{
+  "words_PL": [
+    {
+      "id": "eMoXa0geoqDv-ipQ57L4T",
+      "pl": "biuro",
+      "uk": "офіс",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "TZr_pryKih0epslx8fCMx",
+      "pl": "bieg",
+      "uk": "біг",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "9_8AERZa_kStDWM-s1NeX",
+      "pl": "biurko",
+      "uk": "стіл (письмовий)",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "GLYi1LZAAHXdPTmcwx9Dz",
+      "pl": "czas",
+      "uk": "час",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "xOdMUNHVA98C3qWTf3fd6",
+      "pl": "czasami",
+      "uk": "інколи",
+      "serf": "A1",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "Y8DRHb0vEEdMUYif5Gjqg",
+      "pl": "dzień",
+      "uk": "день",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "-cNV63cq6FbPRippvZXQv",
+      "pl": "drzemka",
+      "uk": "дрімота",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "h-Vs_10W5Rfn5nM_T4SqJ",
+      "pl": "dom",
+      "uk": "дім",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "Mt7NIOzeyxS7RZ0C1vlL1",
+      "pl": "drzewo",
+      "uk": "дерево",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "bQWkrQTj6zrifDAnkJMgU",
+      "pl": "dżem",
+      "uk": "джем",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "z3IDlXe2WL7Hs_neA7Cxh",
+      "pl": "energia",
+      "uk": "енергія",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "mF-unvAPW2dPCUDBFJnBP",
+      "pl": "film",
+      "uk": "фільм",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "y-rNjB5aZuj9dA9Q9r-We",
+      "pl": "godzina",
+      "uk": "година",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "b4rXpS7PkTKh5k9FvlWHx",
+      "pl": "godziny",
+      "uk": "годин",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "2X5rbVIibS8Z_fSoCJiqx",
+      "pl": "gra",
+      "uk": "гра",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "toR7i1WJ4Wo6hRX63SSL3",
+      "pl": "gry planszowe",
+      "uk": "настільні ігри",
+      "serf": "B1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "78htRCHs0U91qEQu_Iz0s",
+      "pl": "herbata",
+      "uk": "чай",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "vWPnn2Dk_TSzG35aQOtGT",
+      "pl": "informacja",
+      "uk": "інформація",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "oq1gwdKUGlKBQ3GwbMQ-4",
+      "pl": "jabłko",
+      "uk": "яблуко",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "ftKsaOJEVvnqQt92toukg",
+      "pl": "jajecznica",
+      "uk": "яєчня",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "FdMSpXacLm7WmGNx3uNqH",
+      "pl": "kawa",
+      "uk": "кава",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "rWyXq4xcolNIIqeF6stYh",
+      "pl": "książka",
+      "uk": "книга",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "yja69C-Wf5724cZzt99bg",
+      "pl": "kolacja",
+      "uk": "вечеря",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "vsr4BFZJetQUkWTz3iDbQ",
+      "pl": "komputer",
+      "uk": "комп'ютер",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "76e6wxkMQTYYasMOOcOAa",
+      "pl": "kontrola",
+      "uk": "контроль",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "SdR76Tjp-SOQlm4F5ApqO",
+      "pl": "kurczak",
+      "uk": "курка",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "7QccPhaOkW6W_j_9fyJZY",
+      "pl": "lekcja",
+      "uk": "урок",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "ehUODE4sewbpfDufv_hTn",
+      "pl": "łóżko",
+      "uk": "ліжко",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "xK6kTumzGUntSCch20vhr",
+      "pl": "makaron",
+      "uk": "макарони",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "9slfEn_wfM9Y7UfV1GSYJ",
+      "pl": "miasto",
+      "uk": "місто",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "bgRXgb4cjTj5pva2ka7e7",
+      "pl": "nadzór",
+      "uk": "нагляд",
+      "serf": "B1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "_e88RjZdkvTEvtNzl-yGC",
+      "pl": "nauka",
+      "uk": "наука",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "X2X__b6Yfg01iZahYAod6",
+      "pl": "obiad",
+      "uk": "обід",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "GTzzLWqsEViaiMwvZdWUV",
+      "pl": "obowiązki",
+      "uk": "обов’язки",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "QVtdYIuOUBN8mfiP7fmhh",
+      "pl": "owsianka",
+      "uk": "вівсянка",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "isQbjvJVY5fLZ3DlmElL3",
+      "pl": "park",
+      "uk": "парк",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "bwyiYVApexpPaaQBTYrQn",
+      "pl": "plan",
+      "uk": "план",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "xQ3NkqdeNDXUvMwv9nVHR",
+      "pl": "poczta",
+      "uk": "пошта",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "HJHsed2L-UxUQqcvTqzWM",
+      "pl": "pokój",
+      "uk": "кімната",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "-vVHl2osUVmEkS8L5r_-2",
+      "pl": "praca",
+      "uk": "робота",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "oWFN7Mt5Co6qehU03pCrN",
+      "pl": "przerwy",
+      "uk": "перерви",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "cBVCuzlFYb9Imhz1LT6D0",
+      "pl": "przekąski",
+      "uk": "закуски",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "REsaRIxgng1HVckEi_2Mo",
+      "pl": "przepis",
+      "uk": "рецепт",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "BsRNQFA4nXhvLY_UylmJP",
+      "pl": "rodzina",
+      "uk": "сім’я",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "GOtOhOpQN-RiH8mcKZnG_",
+      "pl": "równowaga",
+      "uk": "рівновага",
+      "serf": "B1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "5RiE5GxEIYR3GKW80STo5",
+      "pl": "ryba",
+      "uk": "риба",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "bJPLsgzpZAYZYOLRpED4W",
+      "pl": "sałatka",
+      "uk": "салат",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "lE27nUIiZf1p_d1d9BESD",
+      "pl": "siłownia",
+      "uk": "тренажерний зал",
+      "serf": "B1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "2WLwGfNaKH2oYt-uOInbY",
+      "pl": "śniadanie",
+      "uk": "сніданок",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "lWsdUX_JLYuClbpeOkMHi",
+      "pl": "spacer",
+      "uk": "прогулянка",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "8JD_SwcIuRHTXEgiD1AQt",
+      "pl": "stolik",
+      "uk": "столик",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "aINU9A8ASblfsYRynMHKz",
+      "pl": "sypialnia",
+      "uk": "спальня",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "-hfCsGchtqsVYzpfxr2Wq",
+      "pl": "teatr",
+      "uk": "театр",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "wIYBztNAJIidCTV5KL9Pi",
+      "pl": "warzywa",
+      "uk": "овочі",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "T66Q9RBNyMs4ltIBLrOKm",
+      "pl": "wiadomości",
+      "uk": "новини",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "nBny5vftadKY_uqvReHBv",
+      "pl": "wiosna",
+      "uk": "весна",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "dIowrhbaTCgt6bZ0gUbRn",
+      "pl": "wyjście",
+      "uk": "вихід",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "ICZVN8cUUyrNX-JpWlbFP",
+      "pl": "zadanie",
+      "uk": "завдання",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "OiyOhA3nLk_qX44EyyfQG",
+      "pl": "zasada",
+      "uk": "принцип",
+      "serf": "A2",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "AAWKmgb9pFsEJcvqcSSMK",
+      "pl": "zęby",
+      "uk": "зуби",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "sqLJZ4UK5sGJqeNW1daEP",
+      "pl": "zupa",
+      "uk": "суп",
+      "serf": "A1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "4u6oYczGSziL41eyDnk6r",
+      "pl": "żywienie",
+      "uk": "харчування",
+      "serf": "B1",
+      "partOfSpeech": "noun"
+    },
+    {
+      "id": "K6yKhy18mnxVdhMCLZa6B",
+      "pl": "biegać",
+      "uk": "бігати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "T7MEndGJy0KsE9hfqHEFc",
+      "pl": "brać",
+      "uk": "брати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "CgQQaUupfj_HzKxD6m2cO",
+      "pl": "budzić",
+      "uk": "прокидатися",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "DWxm-6FlAVRskukxMWKOx",
+      "pl": "czuć się",
+      "uk": "почуватися",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "4KDUyMiRuSVdSYaCyUZXA",
+      "pl": "czytać",
+      "uk": "читати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "sa7OOSSoDQvR-EV_WjjO2",
+      "pl": "eksperymentować",
+      "uk": "експериментувати",
+      "serf": "B1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "9SKJgfxeqars88enP0kPc",
+      "pl": "gotować",
+      "uk": "готувати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "cnkxHHXB7VWu1JTtOTZhV",
+      "pl": "grać",
+      "uk": "грати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "WZL9d66HadGIqDTzIGUBK",
+      "pl": "jeść",
+      "uk": "їсти",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "abLJFBE2l1WVmdNsZQ06N",
+      "pl": "kłaść",
+      "uk": "лягати",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "N-RmDS8lJTWSTuWhO8DCJ",
+      "pl": "kontrolować",
+      "uk": "контролювати",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "ftS8uqAnEJ9bS3RZaWnzu",
+      "pl": "pracować",
+      "uk": "працювати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "-vDQWO0gKYdy5sNmjEfFo",
+      "pl": "przychodzić",
+      "uk": "приходити",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "GHF6LhWCqb0nX76DQCL3e",
+      "pl": "przeglądać",
+      "uk": "переглядати",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "KeT_D81VtqBgEo6CfhdC-",
+      "pl": "przygotowywać",
+      "uk": "готуватися",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "F9IkRRPKOXIT2t4WVpHAc",
+      "pl": "relaksować się",
+      "uk": "розслаблятися",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "JTz3pxZEsgIg_mPorgPjy",
+      "pl": "robić",
+      "uk": "робити",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "5P_OMTNVZK53KcHUnXhKU",
+      "pl": "siadać",
+      "uk": "сідати",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "PMCDtTc8B2xT1BMgsn2QI",
+      "pl": "sprawdzać",
+      "uk": "перевіряти",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "asel01Dezx13KM3KI0ArZ",
+      "pl": "śniadaniować",
+      "uk": "снідати",
+      "serf": "B1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "GPsAbkeZElKVj24gJFLFY",
+      "pl": "trzymać się",
+      "uk": "дотримуватися",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "JJ_fOncGY0bcOTf3FByoS",
+      "pl": "usiąść",
+      "uk": "сісти",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "1pQeadRJZOQk0rReW0pcL",
+      "pl": "wstawać",
+      "uk": "вставати",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "3MYSUuJPMzaKy7TI_eMC0",
+      "pl": "wychodzić",
+      "uk": "виходити",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "PgWfAMgjuB-ws7wHzfmWF",
+      "pl": "zasypiać",
+      "uk": "засинати",
+      "serf": "A2",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "vN7mZkm_hdZL8lcIVG7Q7",
+      "pl": "zrelaksować się",
+      "uk": "розслабитися",
+      "serf": "B1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "SPMzwjlXG_K0mHvYOeTdJ",
+      "pl": "zostawać",
+      "uk": "залишатися",
+      "serf": "A1",
+      "partOfSpeech": "verb"
+    },
+    {
+      "id": "xMmPO6jRzDazrYjQxo6xI",
+      "pl": "codzienny",
+      "uk": "щоденний",
+      "serf": "A2",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "JC0OYpY6Nvd6YDrUDXTBj",
+      "pl": "ważny",
+      "uk": "важливий",
+      "serf": "A2",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "76EadOBhOQX3JF9UFWbHq",
+      "pl": "wygodny",
+      "uk": "зручний",
+      "serf": "A2",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "XHsm4z8KsjkV5wQLdlB_J",
+      "pl": "zielony",
+      "uk": "зелений",
+      "serf": "A1",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "zE60auJWTQfPQUpT1xzFN",
+      "pl": "zimowy",
+      "uk": "зимовий",
+      "serf": "A2",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "BYZRiqjw2BOqUC6s_DgZZ",
+      "pl": "zły",
+      "uk": "поганий",
+      "serf": "A2",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "id": "rp1zBtde7KHVOyxEmtgSD",
+      "pl": "codziennie",
+      "uk": "щодня",
+      "serf": "A2",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "9DLpDRLR9jGZX0vrOZW0O",
+      "pl": "dokładnie",
+      "uk": "точно",
+      "serf": "A2",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "v492wSsoAF-2NPcfyDnan",
+      "pl": "jednocześnie",
+      "uk": "одночасно",
+      "serf": "B1",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "QsGlw1sa-_5jcCmpZDHlD",
+      "pl": "nigdzie",
+      "uk": "ніде",
+      "serf": "A2",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "F6bp5YG_6tqPfTNSVsp9L",
+      "pl": "odpowiednio",
+      "uk": "відповідно",
+      "serf": "B1",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "qljA6nvSYQ0H_f7a8504P",
+      "pl": "prawie",
+      "uk": "майже",
+      "serf": "A2",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "kue7GI_dGAA6pZHfwtcsJ",
+      "pl": "rzadko",
+      "uk": "рідко",
+      "serf": "A2",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "T3XNc4px7rrPMvkUvQM5j",
+      "pl": "zawsze",
+      "uk": "завжди",
+      "serf": "A1",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "id": "-PU0Y7Cs-kvSoNotx4vao",
+      "pl": "około",
+      "uk": "приблизно",
+      "serf": "A1",
+      "partOfSpeech": "other"
+    },
+    {
+      "id": "_2x7xR_ouCP30yAxSpp1i",
+      "pl": "zdalnie",
+      "uk": "дистанційно",
+      "serf": "B1",
+      "partOfSpeech": "other"
+    }
+  ]
+}
